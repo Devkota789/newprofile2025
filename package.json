@@ -2,6 +2,7 @@
   "name": "profolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nischaldevkota.com.np",
   "type": "module",
   "scripts": {
     "dev": "vite",
