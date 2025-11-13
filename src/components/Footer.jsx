@@ -25,7 +25,7 @@ export function Footer() {
             Nischal Devkota
           </p>
           <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
-            Building meaningful digital experiences with React, motion, and care.
+            Building meaningful digitall experiences with React, motion, and care.
           </p>
         </div>
         <nav className="flex flex-wrap justify-center gap-4 text-xs font-semibold uppercase tracking-[0.3em] text-slate-500 dark:text-slate-400">
