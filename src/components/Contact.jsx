@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion as Motion } from 'framer-motion'
-import { FiGithub, FiLinkedin, FiMail, FiSend, FiTwitter,FiFacebook } from 'react-icons/fi'
+import { FiGithub, FiLinkedin, FiMail, FiSend, FiInstagram , FiTwitter,FiFacebook } from 'react-icons/fi'
 import { SectionHeading } from './SectionHeading.jsx'
 import { FaWhatsapp } from 'react-icons/fa';
 
@@ -24,6 +24,11 @@ const socialLinks = [
     label: 'Whatsapp',
     icon: FaWhatsapp,
     url: 'https://wa.me/+977984649522',
+  },
+  {
+    label : 'Instagram',
+    icon : FiInstagram,
+    url : 'https://www.instagram.com/nischal_devkota/',
   }
 ]
 
