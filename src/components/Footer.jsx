@@ -9,10 +9,10 @@ const footerLinks = [
 ]
 
 const socials = [
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/yourusername', icon: FiLinkedin },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/nischal-18-devkota/', icon: FiLinkedin },
   { label: 'GitHub', href: 'https://github.com/Devkota789', icon: FiGithub },
-  { label: 'Twitter', href: 'https://twitter.com/yourusername', icon: FiTwitter },
-  { label: 'Facebook', href: 'https://facebook.com/yourusername', icon: FiFacebook },
+  
+  { label: 'Facebook', href: 'https://www.facebook.com/nischal.devkota.116283', icon: FiFacebook },
   {label: 'Instagram', href: 'https://www.instagram.com/nischal_devkota_/', icon: FiInstagram }
 ]
 
@@ -54,7 +54,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-slate-200/60 py-4 text-center text-xs text-slate-500 dark:border-slate-800 dark:text-slate-500">
-        © {new Date().getFullYear()} Aarav Sainju. All rights reserved.
+        © {new Date().getFullYear()}  Nischal Devkota All rights reserved.
       </div>
     </footer>
   )

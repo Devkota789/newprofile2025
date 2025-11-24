@@ -28,7 +28,7 @@ const socialLinks = [
   {
     label : 'Instagram',
     icon : FiInstagram,
-    url : 'https://www.instagram.com/nischal_devkota/',
+    url : 'https://www.instagram.com/nischal_devkota_',
   }
 ]
 
